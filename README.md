@@ -74,3 +74,8 @@ v_side = torch.zeros((3 * N_b // 4,), device=device)
 u_b = torch.cat([u_side, u_top], dim=0)  # 形状 (N_b,)
 v_b = torch.cat([v_side, v_top], dim=0)
 ```
+补充速度大小分布图：可见两者区别不大
+TensorFlow:
+![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/%E5%B1%82%E6%B5%81%E7%9B%96%E8%85%94%E9%80%9F%E5%BA%A6%E5%A4%A7%E5%B0%8F%E5%88%86%E5%B8%83%E5%9B%BE_tf.png)
+Pytorch:
+![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/%E5%B1%82%E6%B5%81%E7%9B%96%E8%85%94%E9%80%9F%E5%BA%A6%E5%A4%A7%E5%B0%8F%E5%88%86%E5%B8%83%E5%9B%BE_torch.png)
