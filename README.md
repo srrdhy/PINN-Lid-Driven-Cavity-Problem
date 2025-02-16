@@ -27,8 +27,10 @@ $$U\frac{\partial V}{\partial x}+V\frac{\partial V}{\partial y}=-\frac{\partial 
 
 TenserFlow版本：
 ![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/3b77b897cba238ff73aafa64993799e.png)
+
 Pytorch版本：
 ![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/cdf839c75eb2e1ea07ad58e63b664e4.png)
+
 原作者结果：（使用TenserFlow）
 ![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/Pasted%20image%2020250216153643.png)
 ## 结果解释：
