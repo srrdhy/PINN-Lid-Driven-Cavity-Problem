@@ -1,5 +1,6 @@
 # PINN-Lid-Driven-Cavity-Problem
-PINN盖驱动腔问题
+PINN盖驱动腔问题（层流）
+
 原文地址：https://medium.com/@oladayo_7133/solving-the-lid-driven-cavity-problem-using-physics-informed-neural-networks-pinns-2dd14005751a
 
 # Problem Description
