@@ -81,4 +81,4 @@ TensorFlow:
 Pytorch:
 ![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/%E5%B1%82%E6%B5%81%E7%9B%96%E8%85%94%E9%80%9F%E5%BA%A6%E5%A4%A7%E5%B0%8F%E5%88%86%E5%B8%83%E5%9B%BE_torch.png)
 COMSOL：
-![]()
+![](https://github.com/srrdhy/PINN-Lid-Driven-Cavity-Problem/blob/main/images/comsol%E7%BB%93%E6%9E%9C.jpg)
